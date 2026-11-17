@@ -1,2 +1,2 @@
 # Java
-Accenture bootcamp
+All java basics
